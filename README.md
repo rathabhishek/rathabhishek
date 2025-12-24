@@ -9,6 +9,21 @@
 
 ---
 
+### 🏛️ Professional Background & Education
+<p align="left">
+  <a href="https://investor.vanguard.com/corporate-portal">
+    <img src="https://img.shields.io/badge/Vanguard-grey?style=flat" height="25" alt="Vanguard" />
+  </a> &nbsp;
+  <a href="https://www.amazon.com/ref=nav_logo">
+    <img src="https://img.shields.io/badge/Amazon-grey?style=flat" height="25" alt="Amazon" />
+  </a> &nbsp;
+  <a href="https://www.sjsu.edu/">
+    <img src="https://img.shields.io/badge/SJSU-grey?style=flat&logo=education" height="25" alt="SJSU" />
+  </a>
+</p>
+
+---
+
 ### 💫 Executive Summary
 I architect end-to-end solutions that bridge **Modern User Interfaces** with **Distributed Backend Clusters** and **Cloud-Native Infrastructure**. My work has secured high-availability systems for **Institutional-Scale Assets** and optimized **Global Logistics Infrastructure** through resilient, low-latency engineering.
 
