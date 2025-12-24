@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Abhishek%20Rath&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<!--
-**rathabhishek/rathabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>🚀 Full-Stack System Architect | AWS Certified DevOps Professional</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/abrath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:rathabhishek23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Philadelphia-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 Executive Summary
+I architect end-to-end solutions that bridge **Modern User Interfaces** with **Distributed Backend Clusters** and **Cloud-Native Infrastructure**. My work has secured high-availability systems for **Institutional-Scale Assets** and optimized **Global Logistics Infrastructure** through resilient, low-latency engineering.
+
+
+
+### 🛠️ Core Technology Matrix
+
+| **Tier** | **Technologies & Frameworks** |
+| :--- | :--- |
+| **Frontend & UI** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Backend & Logic** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) |
+| **Cloud & Data** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Flink](https://img.shields.io/badge/-Apache_Flink-E6522C?style=flat-square&logo=apache-flink&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **DevOps & Edge** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+
+---
+
+### 📈 Strategic Business Impact
+* **🌐 Global Asset Management:** Orchestrated cloud migrations for enterprise portfolios with **Trillion-scale AUM**, reducing system downtime by **11%**.
+* **⚡ Operational Efficiency:** Optimized infrastructure resource utilization by **40%**, reallocating compute bandwidth toward mission-critical R&D.
+* **🚀 Performance Velocity:** Engineered event-driven analytics that cut data-processing latency by **16%**, accelerating real-time financial insights.
+* **🛡️ Security & Resilience:** Eliminated **30% of security vulnerabilities** and achieved **99.99% application uptime** via fault-tolerant K8s architectures.
+
+---
+
+### 🏗️ Featured End-to-End Architectures
+
+> [!TIP]
+> **🌐 [Distributed-Reputation-Intelligence-Service](https://github.com/rathabhishek/Reputation-Intelligence-Service)**
+> *Full-Stack Sentiment Engine:* **React/TS Dashboard** + **Go Microservice** + **Apache Flink** stream processing.
+
+> [!IMPORTANT]
+> **⚙️ [ML-Inference-Orchestrator](https://github.com/rathabhishek/ML-Inference-Orchestrator)**
+> *Enterprise MLOps:* High-availability **Kubernetes** deployment automating model life-cycles across multi-cloud (AWS/Azure) environments.
+
+> [!CAUTION]
+> **🛡️ [Edge-Biometric-Perception-Service](https://github.com/rathabhishek/Edge-Biometric-Perception-Service)**
+> *Robotics & CV:* Low-latency **GPU-accelerated** gateway optimized for hardware-to-cloud telemetry.
+
+---
+
+### 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rathabhishek&show_icons=true&theme=tokyonight&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathabhishek&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+</p>
+
+---
+
+### 📜 Certifications & Honors
+* 🏆 **AWS Certified DevOps Engineer – Professional**
+* 🏆 **AWS Certified Developer – Associate**
+* 🎓 **M.S. in Electrical & Computer Engineering** | San Jose State University
+
+<div align="center">
+  <sub>Built for scale by Abhishek Rath | 2025</sub>
+</div>
